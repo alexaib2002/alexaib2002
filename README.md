@@ -8,7 +8,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=alexaib2002&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
     </div>
     <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexaib2002&exclude_repo=grupo06&theme=tokyonight&hide_border=true" />
+      <!-- Hide all repos with code not written by me -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexaib2002&exclude_repo=grupo06,Toshiba-SatelliteP50C_OpenCore&theme=tokyonight&hide_border=true" />
     </div>
   </div>
 </a>
