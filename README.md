@@ -9,7 +9,7 @@
     </div>
     <div>
       <!-- Hide all repos with code not written by me -->
-      <img src="https://github-readme-stats-ten-omega-15.vercel.app/api/top-langs/?username=alexaib2002&exclude_repo=grupo06,Toshiba-SatelliteP50C_OpenCore&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats-ten-omega-15.vercel.app/api/top-langs/?username=alexaib2002&layout=donut-vertical&langs_count=10&exclude_repo=grupo06,Toshiba-SatelliteP50C_OpenCore&theme=tokyonight&hide_border=true" />
     </div>
   </div>
 </a>
