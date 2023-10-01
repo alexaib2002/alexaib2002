@@ -1,4 +1,8 @@
-# Hello world
+![banner](https://github.com/alexaib2002/alexaib2002/assets/66980937/c5a02ee1-7932-4268-be37-f2f30865bdfc)
+
+## Tech stack
+
+
 
 ## My Stats
 
