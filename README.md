@@ -2,6 +2,8 @@
 
 ## Tech stack
 
+This is all the tech stack I've been using over the years to work on my projects:
+
 <div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="76" />
 	&nbsp;
