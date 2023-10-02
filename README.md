@@ -248,7 +248,7 @@ This is all the tech stack I've been using over the years to work on my projects
 
 <a href="https://github-readme-streak-stats.herokuapp.com">
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=alexaib2002&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" height=300 />
+    <img src="https://github-readme-streak-stats-ten-mu.vercel.app?user=alexaib2002&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" height=300 />
   </div>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
