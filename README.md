@@ -1,5 +1,49 @@
 ![banner](https://github.com/alexaib2002/alexaib2002/assets/66980937/644a9803-ded7-4533-a596-542bd60c28fa)
 
+## My projects
+
+### Containers
+
+- [Distrobox WebDev Environment](https://github.com/alexaib2002/podman-fedora-webdevel)
+- [Jellyfin root systemd unit service](https://github.com/alexaib2002/systemd-jellyfin_container/tree/main)
+
+### Virtual Machines
+
+- [KVM macOS with Nvidia GPU Passthrough](https://github.com/alexaib2002/kvm-macos-nvidia-gpu)
+
+### Full-stack
+
+- [DataWorks](https://github.com/alexaib2002/project-dataworks_base): App made for general data management while supporting extensions/modifications via scripts (Electron + React + Next.js + TypeScript + SQLite)
+- [CineHub](https://github.com/alexaib2002/android-cinehub): Android app for buying cinema tickets online (Android + Java + FireBase)
+- [EmployeeManagerFX](https://github.com/alexaib2002/dam2-javafx_ddbb_project): Employee manager made with JavaFX and MySQL
+- [ChatPSP](https://github.com/alexaib2002?tab=repositories&q=chat&type=&language=&sort=): Chat application with both client and server implemented in Java by using TCP sockets
+
+### Spring Framework
+
+- [spring_academy-cash_cards](https://github.com/alexaib2002/spring_academy-cash_cards)
+
+### Android (Java)
+
+- [android-weather_api_app](https://github.com/alexaib2002/android-weather_api_app): Basic weather app, made for learning about the RetroFit library querying the DarkSky API (nowadays deprecated)
+
+### Android (Kotlin)
+
+- [android_kotlin-todo_list](https://github.com/alexaib2002/android_kotlin-todo_list): To-Do app list made in Kotlin to gain familiarity with the language features and streamline Android development
+
+### iOS
+
+- [swift-calculator](https://github.com/alexaib2002/swift-calculator_project): Simple calculator app made in Swift
+
+### Linux
+
+- [eppctl](https://github.com/alexaib2002/eppctl): Simple utility to manage AMD EPP Active driver on Linux
+- [mkinitcpio-recovery](https://github.com/alexaib2002/archlinux-mkinitcpio_recovery): Recovery initramfs UKI for executing maintenance operations without requiring a live USB in Arch Linux
+
+### 42 School
+- [42-libft](https://github.com/alexaib2002/42-libft)
+- [42-gnl](https://github.com/alexaib2002/42-gnl) 
+- [42-printf](https://github.com/alexaib2002/42-printf) 
+
 ## Tech stack
 
 This is all the tech stack I've been using over the years to work on my projects:
