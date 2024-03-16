@@ -1,3 +1,5 @@
+Hi! Here on my profile page I have grouped together some of the projects I have published on Github to act as a sort of an index. There are both projects I made for learning new technologies and personal ones (sysadmin and such), feel free to take a look.
+
 ## Personal Projects
 
 ### Containers
@@ -119,11 +121,6 @@
 	&nbsp;
 	&nbsp;
 	&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="48" />
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" height="48" />
 	&nbsp;
 	&nbsp;
@@ -199,11 +196,6 @@
 	&nbsp;
 	&nbsp;
 	&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" height="48" />
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
 		height="48" />
 	&nbsp;
@@ -230,7 +222,7 @@
 	&nbsp;
 	&nbsp;
 	&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="48" />
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" height="48" />
 	&nbsp;
 	&nbsp;
 	&nbsp;
@@ -282,8 +274,8 @@
 	&nbsp;
 </div>
 
+<!-- FIXME
 ## Stats
-
 <a href="https://github-readme-streak-stats.herokuapp.com">
   <div align="center">
     <img src="https://github-readme-streak-stats-ten-mu.vercel.app?user=alexaib2002&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" height=300 />
@@ -293,8 +285,8 @@
   <div align="center">
     <div>
       <img valign="middle" src="https://github-readme-stats-ten-omega-15.vercel.app/api?username=alexaib2002&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" height=250 />
-      <!-- Hide all repos with code not written by me -->
       <img valign="middle" src="https://github-readme-stats-ten-omega-15.vercel.app/api/top-langs/?username=alexaib2002&layout=donut-vertical&langs_count=10&exclude_repo=grupo06,Toshiba-SatelliteP50C_OpenCore&theme=tokyonight&hide_border=true" height=450 />
     </div>
   </div>
 </a>
+-->
