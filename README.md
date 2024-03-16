@@ -1,15 +1,22 @@
 ![banner](https://github.com/alexaib2002/alexaib2002/assets/66980937/644a9803-ded7-4533-a596-542bd60c28fa)
 
-## My projects
+## Personal Projects
 
 ### Containers
 
 - [Distrobox WebDev Environment](https://github.com/alexaib2002/podman-fedora-webdevel)
 - [Jellyfin root systemd unit service](https://github.com/alexaib2002/systemd-jellyfin_container/tree/main)
 
+### Linux
+
+- [eppctl](https://github.com/alexaib2002/eppctl): Simple utility to manage AMD EPP Active driver on Linux
+- [mkinitcpio-recovery](https://github.com/alexaib2002/archlinux-mkinitcpio_recovery): Recovery initramfs UKI for executing maintenance operations without requiring a live USB in Arch Linux
+
 ### Virtual Machines
 
 - [KVM macOS with Nvidia GPU Passthrough](https://github.com/alexaib2002/kvm-macos-nvidia-gpu)
+
+## Learning Projects
 
 ### Full-stack
 
@@ -26,18 +33,9 @@
 
 - [android-weather_api_app](https://github.com/alexaib2002/android-weather_api_app): Basic weather app, made for learning about the RetroFit library querying the DarkSky API (nowadays deprecated)
 
-### Android (Kotlin)
-
-- [android_kotlin-todo_list](https://github.com/alexaib2002/android_kotlin-todo_list): To-Do app list made in Kotlin to gain familiarity with the language features and streamline Android development
-
 ### iOS
 
 - [swift-calculator](https://github.com/alexaib2002/swift-calculator_project): Simple calculator app made in Swift
-
-### Linux
-
-- [eppctl](https://github.com/alexaib2002/eppctl): Simple utility to manage AMD EPP Active driver on Linux
-- [mkinitcpio-recovery](https://github.com/alexaib2002/archlinux-mkinitcpio_recovery): Recovery initramfs UKI for executing maintenance operations without requiring a live USB in Arch Linux
 
 ### 42 School
 - [42-libft](https://github.com/alexaib2002/42-libft)
@@ -45,8 +43,6 @@
 - [42-printf](https://github.com/alexaib2002/42-printf) 
 
 ## Tech stack
-
-Take a look at the stack I've been using over the years!
 
 <div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" />
@@ -288,7 +284,7 @@ Take a look at the stack I've been using over the years!
 	&nbsp;
 </div>
 
-## My Stats
+## Stats
 
 <a href="https://github-readme-streak-stats.herokuapp.com">
   <div align="center">
