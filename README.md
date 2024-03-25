@@ -1,4 +1,4 @@
-Hi! Here on my profile page I have grouped together some of the projects I have published on Github to act as a sort of an index. There are both projects I made for learning new technologies and personal ones (sysadmin and such), feel free to take a look.
+Hi! You're on my profile page, where I've grouped together some of the projects I've published on Github to act as a sort of index. There are both projects I made for learning new technologies and personal ones (sysadmin and such), feel free to take a look.
 
 ## Personal Projects
 
